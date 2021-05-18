@@ -1,4 +1,4 @@
-### Welcome! Please wipe your feet on the welcome mat and come on inside
+### Hello! Please wipe your feet on the welcome mat and come on inside
 
 I would have made pastries if I knew you were coming. I am a data scientist who loves exploring data and fintech, and natural language processing. Please have a look at my projects and let me know what you think.
 
