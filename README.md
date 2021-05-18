@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Umairican/Umairican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Further projects utilizing NLP and screenplays
 - 🌱 I’m currently learning ... Reinforcement Learning through a Udemy Course
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... You can reach me on Linkedin!
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I have a Welsh surname, but am not of Welsh heritage (no we didn't buy the name at the shop)
--->
+
