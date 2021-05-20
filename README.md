@@ -8,7 +8,7 @@ I would have made pastries if I knew you were coming. I am a data scientist who 
 - 👯 I’m looking to collaborate on ... Projects that involve NLP and text generation
 - 🤔 I’m looking for help with ... My career. Currently seeking opportunities
 - 💬 Ask me about ... How to live in other countries and get out of your comfort zone
-- 📫 How to reach me: ... www.umairican.com
+- 📫 How to reach me: ... www.umairican.com, www.linkedin.com/in/umair-evans
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I have a Welsh surname, but am not of Welsh heritage (no we didn't buy the name at the shop)
 
