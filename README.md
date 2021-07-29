@@ -3,8 +3,8 @@
 I would have put the kettle on if I knew you were coming. I am a data scientist who loves exploring data and fintech, and natural language processing. Please have a look at my projects and let me know what you think.
 
 
-- 🔭 I’m currently working on ... A time series project for housing forecasting in Texas using Zillow Data
-- 🌱 I’m currently learning ... Time Series Forecasting
+- 🔭 I’m currently working on ... A cover letter, resume, and follow-up generator
+- 🌱 I’m currently learning ... Learning JavaScript through The Odin Project
 - 👯 I’m looking to collaborate on ... Projects that involve NLP and text generation
 - 🤔 I’m looking for help with ... My career. Currently seeking opportunities to work in data science with a focus on natural language processing
 - 💬 Ask me about ... How to live in other countries and get out of your comfort zone
