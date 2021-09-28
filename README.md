@@ -1,6 +1,6 @@
 ### Hello! Please wipe your feet on the welcome mat and come on inside
 
-I would have put the kettle on if I knew you were coming. I am a data scientist who loves exploring data and fintech, and natural language processing. Please have a look at my projects and let me know what you think.
+I would have put the kettle on if I knew you were coming. I am a data engineer and process intelligence consultant who loves exploring data, automation, process improvements, and natural language processing. I am always happy to meet new people, so say hello!
 
 
 - 🔭 I’m currently working on ... A bot that scrapes different websites for screenplays and then writes scenes
