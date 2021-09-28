@@ -3,10 +3,9 @@
 I would have put the kettle on if I knew you were coming. I am a data scientist who loves exploring data and fintech, and natural language processing. Please have a look at my projects and let me know what you think.
 
 
-- 🔭 I’m currently working on ... A cover letter, resume, and follow-up generator
-- 🌱 I’m currently learning ... Learning JavaScript through The Odin Project
+- 🔭 I’m currently working on ... A bot that scrapes different websites for screenplays and then writes scenes
+- 🌱 I’m currently learning ... Learning Celonis and UiPath for Process Mining
 - 👯 I’m looking to collaborate on ... Projects that involve NLP and text generation
-- 🤔 I’m looking for help with ... My career. Currently seeking opportunities to work in data science with a focus on natural language processing
 - 💬 Ask me about ... How to live in other countries and get out of your comfort zone
 - 📫 How to reach me: ... www.umairican.com, www.linkedin.com/in/umair-evans
 - ⚡ Fun fact: ... I have a Welsh surname, but am not of Welsh heritage
@@ -19,4 +18,5 @@ I would have put the kettle on if I knew you were coming. I am a data scientist 
 src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></p><p>&nbsp;</p>
+src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="40" height="40"/></p><p>&nbsp;</p>
