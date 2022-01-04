@@ -3,7 +3,7 @@
 I would have put the kettle on if I knew you were coming. I am a data engineer and process intelligence consultant who loves exploring data, automation, process improvements, and natural language processing. I am always happy to meet new people, so say hello!
 
 
-- 🔭 I’m currently working on ... A bot that scrapes different websites for screenplays and then writes scenes
+- 🔭 I’m currently working on ... A connector project utilizing DBT
 - 🌱 I’m currently learning ... Learning Celonis and UiPath for Process Mining
 - 👯 I’m looking to collaborate on ... Projects that involve NLP and text generation
 - 💬 Ask me about ... How to live in other countries and get out of your comfort zone
@@ -18,5 +18,5 @@ I would have put the kettle on if I knew you were coming. I am a data engineer a
 src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> <img
+src="https://pbs.twimg.com/profile_images/1465964676211163136/g77r7uBz_400x400.jpg" alt="celonis" width="40" height="40"/> <img                            
 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/></p><p>&nbsp;</p>
