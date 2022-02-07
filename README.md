@@ -21,4 +21,5 @@ src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" widt
 src="https://pbs.twimg.com/profile_images/1465964676211163136/g77r7uBz_400x400.jpg" alt="celonis" width="40" height="40"/> <img        
 src="https://pbs.twimg.com/profile_images/1235171097903091712/yEBpbiQ4_400x400.jpg" alt="uipath" width="40" height="40"/> <img
 src="https://pbs.twimg.com/profile_images/1410225967491076096/1n6iJpwj_400x400.jpg" alt="dbt" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/util/preview.html?image=/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> <img                                         
 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/></p><p>&nbsp;</p>
