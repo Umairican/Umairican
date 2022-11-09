@@ -4,7 +4,7 @@ I would have put the kettle on if I knew you were coming. I am a data engineer a
 
 
 - 🔭 I’m currently working on ... A connector project utilizing DBT
-- 🌱 I’m currently learning ... Postman APIs
+- 🌱 I’m currently learning ... Workato Automation Pro I and Pro II Courses
 - 👯 I’m looking to collaborate on ... Projects that involve NLP and text generation
 - 💬 Ask me about ... How to live in other countries and get out of your comfort zone
 - 📫 How to reach me: ... www.umairican.com, www.linkedin.com/in/umair-evans
