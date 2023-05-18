@@ -3,8 +3,8 @@
 I would have put the kettle on if I knew you were coming. I am a data engineer and process intelligence consultant who loves exploring data, automation, process improvements, and natural language processing. I am always happy to meet new people, so say hello!
 
 
-- 🔭 I’m currently working on ... A connector project utilizing DBT
-- 🌱 I’m currently learning ... Workato Automation Pro I and Pro II Courses
+- 🔭 I’m currently working on ... A connector project utilizing DBT and the Coupa API
+- 🌱 I’m currently learning ... Celonis Value Realization Expert
 - 👯 I’m looking to collaborate on ... Projects that involve NLP and text generation
 - 💬 Ask me about ... How to live in other countries and get out of your comfort zone
 - 📫 How to reach me: ... www.umairican.com, www.linkedin.com/in/umair-evans
@@ -18,7 +18,7 @@ I would have put the kettle on if I knew you were coming. I am a data engineer a
 src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <img
-src="https://pbs.twimg.com/profile_images/1465964676211163136/g77r7uBz_400x400.jpg" alt="celonis" width="40" height="40"/> <img        
+src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_80/7dc60a0mwxbaiylqi22tr0mv3eaf.png" alt="celonis" width="40" height="40"/> <img        
 src="https://pbs.twimg.com/profile_images/1235171097903091712/yEBpbiQ4_400x400.jpg" alt="uipath" width="40" height="40"/> <img
 src="https://pbs.twimg.com/profile_images/1410225967491076096/1n6iJpwj_400x400.jpg" alt="dbt" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> <img                                         
